@@ -54,7 +54,7 @@ The analysis combines publicly available cross-country indicators, primarily fro
 
 Key variables include:
 
-- Manufacturing employment (% of total employment)
+- Employment in industry (% of total employment)
 - Government effectiveness
 - Regulatory quality
 - Human Capital Index (HCI)
